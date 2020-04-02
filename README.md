@@ -10,4 +10,4 @@ d3 v4
 
 ## Demo
 
-https://yappynoppy.github.io/canvas_scatter_plot_tooltip_zoom_brush/index.html
+https://hiro-yano.github.io/canvas_scatter_plot_tooltip_zoom_brush/index.html
